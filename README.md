@@ -4,7 +4,7 @@ Creating customer segments for a wholesale distributor.
 # Install
 This project requires Python 2.7 and the following Python libraries installed:
 
-* [NumPy](www.numpy.org)
+* [NumPy](https://numpy.org)
 * [Pandas](https://pandas.pydata.org)
 * [matplotlib](https://matplotlib.org)
 * [scikit-learn](https://scikit-learn.org)
