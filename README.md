@@ -21,11 +21,14 @@ Template code is provided in the customer_segments.ipynb notebook file. You will
 
 In a terminal or command window, navigate to the top-level project directory customer_segments/ (that contains this README) and run one of the following commands:
 
+```python
 ipython notebook customer_segments.ipynb
-
+```
 or
 
+```python
 jupyter notebook customer_segments.ipynb
+```
 
 # Data
 
@@ -35,11 +38,11 @@ Note (m.u.) is shorthand for monetary units.
 
 # Features
 
-Fresh: annual spending (m.u.) on fresh products (Continuous);
-Milk: annual spending (m.u.) on milk products (Continuous);
-Grocery: annual spending (m.u.) on grocery products (Continuous);
-Frozen: annual spending (m.u.) on frozen products (Continuous);
-Detergents_Paper: annual spending (m.u.) on detergents and paper products (Continuous);
-Delicatessen: annual spending (m.u.) on and delicatessen products (Continuous);
-Channel: {Hotel/Restaurant/Cafe - 1, Retail - 2} (Nominal)
-Region: {Lisbon - 1, Oporto - 2, or Other - 3} (Nominal)
+* Fresh: annual spending (m.u.) on fresh products (Continuous);
+* Milk: annual spending (m.u.) on milk products (Continuous);
+* Grocery: annual spending (m.u.) on grocery products (Continuous);
+* Frozen: annual spending (m.u.) on frozen products (Continuous);
+* Detergents_Paper: annual spending (m.u.) on detergents and paper products (Continuous);
+* Delicatessen: annual spending (m.u.) on and delicatessen products (Continuous);
+* Channel: {Hotel/Restaurant/Cafe - 1, Retail - 2} (Nominal)
+* Region: {Lisbon - 1, Oporto - 2, or Other - 3} (Nominal)
